@@ -1,2 +1,2 @@
-# Learning-other-programming-language
-Learning about cyber security using Python, Cryptography, Go, Swift, etc.
+# Natural Language Processing
+Learning about BERT, ELMo, Seq2Seq, etc.
